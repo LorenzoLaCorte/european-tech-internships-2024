@@ -32,8 +32,6 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 |company|title|location|link|
 |---|---|---|---|
 |amazon web services (aws)|software dev engineer internship - embedded development|berlin, berlin, germany|[🔗](https://www.linkedin.com/jobs/view/4455937209)||
-|amazon|software dev engineer intern machine learning, amazon robotics|berlin, germany|[🔗](https://www.linkedin.com/jobs/view/4455793689)||
-|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|[🔗](https://www.linkedin.com/jobs/view/4455909095)||
 |amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4455914357)||
 |amazon|software development intern, intech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4455904920)||
 <!-- END INTERNSHIPS -->
@@ -42,11 +40,11 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 <!-- BEGIN ML_INTERNSHIPS -->
 |company|title|location|link|
 |---|---|---|---|
+|devexplore|internship - ai agent developer (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4447823382)||
 |gemmo ai|machine learning engineer - internships and full-time positions|milan, lombardy, italy|[🔗](https://www.linkedin.com/jobs/view/4406380480)||
 |infineon technologies|internship - ai agent developer (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4420420536)||
 |infineon technologies|internship: software developer with ai/ml focus for chip-package-board codesign (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4226449701)||
-|ntt data, inc.|ai engineering intern – mistral ai & forward deployment|luxembourg, luxembourg, luxembourg|[🔗](https://www.linkedin.com/jobs/view/4452803263)||
-|onesec|machine learning engineer at international startup|istanbul, istanbul, worldwide|[🔗](https://www.linkedin.com/jobs/view/4453095387)||
+|onesec|machine learning engineer at international startup|istanbul, istanbul, worldwide|[🔗](https://www.linkedin.com/jobs/view/4456499629)||
 <!-- END ML_INTERNSHIPS -->
 
 ## New Grad Positions
@@ -92,6 +90,8 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 <!-- BEGIN PHDS -->
 |company|title|location|link|
 |---|---|---|---|
+|google|software engineer, early careers, phd, cloud ai|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4320919263)||
+|google|software engineer, performance, reliability, observability, phd, early careers|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4374056681)||
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4321301694)||
-|google|software engineer, tpu compiler, phd, early careers|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4366898452)||
+|nvidia|system software architecture researcher - phd program|roskilde, region zealand, denmark|[🔗](https://www.linkedin.com/jobs/view/4450504287)||
 <!-- END PHDS -->
