@@ -31,20 +31,19 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 <!-- BEGIN INTERNSHIPS -->
 |company|title|location|link|
 |---|---|---|---|
-|amazon web services (aws)|software dev engineer internship - embedded development|berlin, berlin, germany|[🔗](https://www.linkedin.com/jobs/view/4455937209)||
-|amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4455914357)||
-|amazon|software development intern, intech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4455904920)||
 <!-- END INTERNSHIPS -->
 
 ## ML Internship Positions
 <!-- BEGIN ML_INTERNSHIPS -->
 |company|title|location|link|
 |---|---|---|---|
-|devexplore|internship - ai agent developer (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4447823382)||
 |gemmo ai|machine learning engineer - internships and full-time positions|milan, lombardy, italy|[🔗](https://www.linkedin.com/jobs/view/4406380480)||
-|infineon technologies|internship - ai agent developer (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4420420536)||
+|huawei|intern - ai agent platform|munich, bavaria, germany|[🔗](https://www.linkedin.com/jobs/view/4450335106)||
 |infineon technologies|internship: software developer with ai/ml focus for chip-package-board codesign (f/m/div)|villach, carinthia, austria|[🔗](https://www.linkedin.com/jobs/view/4226449701)||
-|onesec|machine learning engineer at international startup|istanbul, istanbul, worldwide|[🔗](https://www.linkedin.com/jobs/view/4456499629)||
+|onesec|machine learning engineer at international startup|istanbul, istanbul, worldwide|[🔗](https://www.linkedin.com/jobs/view/4464032189)||
+|personio|ai engineer (d/f/m) - internal ai|berlin, berlin, germany|[🔗](https://www.linkedin.com/jobs/view/4453466145)||
+|personio|ai engineer (d/f/m) - internal ai|dublin, county dublin, ireland|[🔗](https://www.linkedin.com/jobs/view/4453470123)||
+|revel|machine learning intern|prague, prague, worldwide|[🔗](https://www.linkedin.com/jobs/view/4442537150)||
 <!-- END ML_INTERNSHIPS -->
 
 ## New Grad Positions
@@ -52,37 +51,53 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 |company|title|location|link|
 |---|---|---|---|
 |allwyn hellas|allwyn graduate program - technology stream (software development or ai engineering)|athens, attiki, greece|[🔗](https://www.linkedin.com/jobs/view/4440514540)||
+|analog devices|fy27 software engineering graduate opportunities|cork, county cork, ireland|[🔗](https://www.linkedin.com/jobs/view/4461869241)||
+|analog devices|fy27 software engineering graduate opportunities|dublin, county dublin, ireland|[🔗](https://www.linkedin.com/jobs/view/4461863220)||
+|analog devices|fy27 software engineering graduate opportunities|limerick, county limerick, ireland|[🔗](https://www.linkedin.com/jobs/view/4461878231)||
 |autodesk|graduate software engineer|oslo, oslo, norway|[🔗](https://www.linkedin.com/jobs/view/4441157025)||
 |autodesk|graduate software engineer|oslo, oslo, norway|[🔗](https://www.linkedin.com/jobs/view/4441161003)||
-|bending spoons|graduate ai software engineer|poland|[🔗](https://www.linkedin.com/jobs/view/4457901145)||
-|bending spoons|graduate ai software engineer|wrocław, dolnośląskie, poland|[🔗](https://www.linkedin.com/jobs/view/4457914011)||
-|bending spoons|graduate software engineer|athens, attiki, greece|[🔗](https://www.linkedin.com/jobs/view/4458942368)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|antwerp, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4233271679)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|aveiro, aveiro, portugal|[🔗](https://www.linkedin.com/jobs/view/4233269850)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|bucharest, bucharest, romania|[🔗](https://www.linkedin.com/jobs/view/4233269856)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|budapest, budapest, hungary|[🔗](https://www.linkedin.com/jobs/view/4233270754)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|coimbra, coimbra, portugal|[🔗](https://www.linkedin.com/jobs/view/4233268783)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|helsinki, uusimaa, finland|[🔗](https://www.linkedin.com/jobs/view/4233270755)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|oslo, oslo, norway|[🔗](https://www.linkedin.com/jobs/view/4233274385)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|riga, riga, worldwide|[🔗](https://www.linkedin.com/jobs/view/4233275286)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4233273373)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|tallinn, harjumaa, worldwide|[🔗](https://www.linkedin.com/jobs/view/4233277053)||
-|canonical|software engineer - python - ubuntu pro client - graduate level|timişoara, timiş, romania|[🔗](https://www.linkedin.com/jobs/view/4233268802)||
+|bending spoons|graduate ai software engineer|cracow, małopolskie, poland|[🔗](https://www.linkedin.com/jobs/view/4464187217)||
+|bending spoons|graduate ai software engineer|paris, île-de-france, france|[🔗](https://www.linkedin.com/jobs/view/4463573789)||
+|bending spoons|graduate ai software engineer|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4464198102)||
+|bending spoons|graduate ai software engineer|wrocław, dolnośląskie, poland|[🔗](https://www.linkedin.com/jobs/view/4464501058)||
+|bending spoons|graduate software engineer|athens, attiki, greece|[🔗](https://www.linkedin.com/jobs/view/4462910904)||
+|bending spoons|graduate software engineer|bucharest, bucharest, romania|[🔗](https://www.linkedin.com/jobs/view/4464198104)||
+|bending spoons|graduate software engineer|cracow, małopolskie, poland|[🔗](https://www.linkedin.com/jobs/view/4464193113)||
+|bending spoons|graduate software engineer|lyon, auvergne-rhône-alpes, france|[🔗](https://www.linkedin.com/jobs/view/4462907869)||
+|bending spoons|graduate software engineer|orsay, île-de-france, france|[🔗](https://www.linkedin.com/jobs/view/4464500085)||
+|bending spoons|graduate software engineer|poznań, wielkopolskie, poland|[🔗](https://www.linkedin.com/jobs/view/4464188194)||
+|bending spoons|graduate software engineer|valencia, valencian community, spain|[🔗](https://www.linkedin.com/jobs/view/4464500084)||
+|bending spoons|graduate software engineer|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4464501057)||
+|cisco|graduate software cloud engineer|galway, county galway, ireland|[🔗](https://www.linkedin.com/jobs/view/4460115570)||
+|cisco|software engineer - graduate - lysaker, norway|norway|[🔗](https://www.linkedin.com/jobs/view/4460031780)||
 |cisco|software engineer - graduate - sweden|stockholm, stockholm county, sweden|[🔗](https://www.linkedin.com/jobs/view/4404059914)||
-|content guru|graduate software developer assessment day - 4th september|bracknell, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4455919855)||
-|imc trading|graduate software engineer (2026)|amsterdam, north holland, netherlands|[🔗](https://www.linkedin.com/jobs/view/4320453368)||
-|imc trading|graduate software engineer|aarhus, central denmark region, denmark|[🔗](https://www.linkedin.com/jobs/view/4447188161)||
-|motorola solutions|graduate software engineer|glasgow, scotland, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4399269415)||
-|motorola solutions|graduate software engineer|glasgow, scotland, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4420426576)||
-|projective talent  part of projective group|graduate program: junior software engineer (.net)|antwerp, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4419687563)||
-|qualcomm|graduate software engineer – virtual platforms - qualcomm - cambridge, uk|cambridge, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4384258608)||
+|content guru|graduate software developer assessment day - 8th october|bracknell, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4464349158)||
+|content guru|software developer graduate assessment day - 15th october|porto, porto, portugal|[🔗](https://www.linkedin.com/jobs/view/4462031322)||
+|gjensidige|graduate innen software engineer|oslo, oslo, norway|[🔗](https://www.linkedin.com/jobs/view/4458414406)||
+|imc trading|graduate software engineer (start date in 2026)|aarhus, central denmark region, denmark|[🔗](https://www.linkedin.com/jobs/view/4323134476)||
+|imc trading|graduate software engineer (start date in 2027)|aarhus, central denmark region, denmark|[🔗](https://www.linkedin.com/jobs/view/4447188161)||
+|julius baer|university graduate – it digital transformation/ software engineer 100% (f/m/d)|madrid, community of madrid, spain|[🔗](https://www.linkedin.com/jobs/view/4465347731)||
+|motorola solutions|graduate software engineer|glasgow, scotland, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4462412131)||
+|nuclear graduates|digital software engineering - nuclear graduates 2027|derby, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4464303618)||
 |revolut|graduate programme 2027: software engineer (android)|poland|[🔗](https://www.linkedin.com/jobs/view/4418824830)||
 |revolut|graduate programme 2027: software engineer (android)|porto, porto, portugal|[🔗](https://www.linkedin.com/jobs/view/4418832558)||
 |revolut|graduate programme 2027: software engineer (android)|portugal|[🔗](https://www.linkedin.com/jobs/view/4418832556)||
 |revolut|graduate programme 2027: software engineer (android)|spain|[🔗](https://www.linkedin.com/jobs/view/4418844091)||
+|revolut|graduate programme 2027: software engineer (android)|united kingdom|[🔗](https://www.linkedin.com/jobs/view/4419097468)||
+|revolut|graduate programme 2027: software engineer (ios)|poland|[🔗](https://www.linkedin.com/jobs/view/4418843146)||
+|revolut|graduate programme 2027: software engineer (ios)|porto, porto, portugal|[🔗](https://www.linkedin.com/jobs/view/4418824785)||
 |revolut|graduate programme 2027: software engineer (ios)|portugal|[🔗](https://www.linkedin.com/jobs/view/4418822810)||
+|revolut|graduate programme 2027: software engineer (ios)|spain|[🔗](https://www.linkedin.com/jobs/view/4418837401)||
+|revolut|graduate programme 2027: software engineer (ios)|united kingdom|[🔗](https://www.linkedin.com/jobs/view/4419301372)||
+|revolut|graduate programme 2027: software engineer (java)|porto, porto, portugal|[🔗](https://www.linkedin.com/jobs/view/4418825676)||
 |revolut|graduate programme 2027: software engineer (java)|portugal|[🔗](https://www.linkedin.com/jobs/view/4418834450)||
+|sage|software engineering graduate - barcelona|barcelona, catalonia, spain|[🔗](https://www.linkedin.com/jobs/view/4418777404)||
+|sentry|software engineer, new grad (2027)|innere stadt, vienna, austria|[🔗](https://www.linkedin.com/jobs/view/4465830359)||
+|shearwater geoservices|graduate software developer|oslo, oslo, norway|[🔗](https://www.linkedin.com/jobs/view/4462937691)||
 |spott|software engineer (graduate)|leuven, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4438983591)||
+|stripe|software engineer, new grad - frontend|barcelona, catalonia, spain|[🔗](https://www.linkedin.com/jobs/view/4461536634)||
+|stripe|software engineer, new grad|bucharest, bucharest, romania|[🔗](https://www.linkedin.com/jobs/view/4461530764)||
+|ttp plc|graduate consultant - software engineering 2026|cambridge, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4462968346)||
 |vodafone|2026 discover graduate program greece  software development @ athens, crete, thessaloniki|greece|[🔗](https://www.linkedin.com/jobs/view/4425325130)||
 <!-- END NEWGRADS -->
 
